@@ -1,0 +1,9 @@
+body {
+    background-image: url(../images/old-parchment.jpg)
+}
+
+a#firstChapter {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
