@@ -1,5 +1,5 @@
 body {
-    background-image: url(../images/old-parchment.jpg)
+    background-image: url("../images/old-parchment.jpg")
 }
 
 a#firstChapter {
